@@ -32,7 +32,7 @@ A responsive Task Manager application built using React and Vite. It allows user
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Divya173-svg/taskManager_app.git
    ```
 
 2. Navigate to the project folder:
@@ -94,7 +94,7 @@ Approximately 20+ hours.
 
 ## Live Demo
 
-[Add your deployed project link here, if available.]
+https://task-manager-j9xlccvvy-divya-s-projects14.vercel.app/
 
 ## Author
 
