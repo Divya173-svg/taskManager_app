@@ -68,8 +68,7 @@ A responsive Task Manager application built using React and Vite. It allows user
 
 ## What Is Missing or Broken
 
-- No known issues at the time of submission. 
-
+- No known issues at the time of submission.
 
 ## Assumptions
 
@@ -86,11 +85,11 @@ Approximately 20+ hours.
 
 ### Desktop View
 
-![Task Manager Desktop Screenshot](screenshots/desktop.png)
+![Task Manager Desktop Screenshot](src/screenshots/desktop.png)
 
 ### Mobile View
 
-![Task Manager Mobile Screenshot](screenshots/mobile.png)
+![Task Manager Mobile Screenshot](src/screenshots/mobile.png)
 
 ## Live Demo
 
